@@ -16,7 +16,8 @@ And for when i need to automate something in our workflow i often use
 <br>
 ## 📈 Main Projects
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gudaoliveira&repo=Pong-Atari-Clone-With-p5js\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gudaoliveira&repo=Pong-Atari-Clone-With-p5js\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/gudaoliveira/Pong-Atari-Clone-With-p5js)
 
 
 
