@@ -1,6 +1,14 @@
-## This is a test
+![banner](banner.webp)
 
-![banner](banner.gif)
+<div style="text-align: center">
+
+# Hi, my name is <b>Gustavo</b> and i'm a <u>Data Analyst</u>👋
+
+This is my personal portifolio, with all the projects i assume are the most interesting
+
+</div> 
+
+
 
 
 
