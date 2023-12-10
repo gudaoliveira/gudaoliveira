@@ -14,12 +14,21 @@ Currently, I'm working as a Business Intelligence Intern at a marketing agency, 
 <br>
 And for when I need to automate something in our workflow or create a more in-depth study, I often use
 <br><br>
-<div align="center">🐍Python with 🐼Pandas, 🧑‍🔬Scikitlearn, ➕Matplotlib and ☕Javascript on Google Apps Script</div>
+<div align="center">🐍Python with 🐼Pandas, 🧑‍🔬Scikitlearn, 🧮Matplotlib and ☕Javascript on Google Apps Script</div>
 <br>
 
 ## 📈 Main Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gudaoliveira&repo=Pong-Atari-Clone-With-p5js\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/gudaoliveira/Pong-Atari-Clone-With-p5js)
 
+<div align="center">
+ 
+### 🤝Thanks for passing by!
+
+<a href="https://www.linkedin.com/in/gustavodell/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:gustavo.dellanhol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</div>
 
 Made with 💞 in Brasil💚💛
+
