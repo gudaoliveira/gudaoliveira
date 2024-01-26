@@ -8,7 +8,7 @@ Sou um entusiasta da tecnologia e apaixonado por vídeo games, com um forte inte
 
 Atualmente, trabalho como **Analista em Business Intelligence** em uma agência de marketing, onde sou responsável por **Criar relatórios de marketing, Analisar KPIs de projetos e Desenvolver soluções inteligentes para agilizar o fluxo do trabalho**. Para isso, utilizo diariamente:
 
-<div align="center">🔸SQL🔸Google Big Query🔸Google Sheets🔸Looker Studio</div>
+<div align="center">🔸SQL🔸Google Big Query🔸Google Sheets🔸Javascript🔸Looker Studio</div>
 <br>
 E quando preciso automatizar algo ou criar um estudo mais aprofundado, muitas vezes utilizo
 <br><br>
