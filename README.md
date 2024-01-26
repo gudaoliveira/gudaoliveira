@@ -18,7 +18,7 @@ E quando preciso automatizar algo em nosso fluxo de trabalho ou criar um estudo 
 ## 📈 Principais Projetos
 <div align="center">
  
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gudaoliveira&repo=NIKE_gerenciador_de_estoque\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/gudaoliveira/NIKE_gerenciador_de_estoque)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gudaoliveira&repo=analise-de-dados-campeonato-brasileiro-2019\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/gudaoliveira/analise-de-dados-campeonato-brasileiro-2019)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gudaoliveira&repo=NIKE_gerenciador_de_reposicao_de_calcados\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/gudaoliveira/NIKE_gerenciador_de_reposicao_de_calcados)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gudaoliveira&repo=deliFoods_modelagem_banco_de_dados\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/gudaoliveira/deliFoods_modelagem_banco_de_dados)
