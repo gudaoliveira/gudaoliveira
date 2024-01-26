@@ -16,13 +16,20 @@ E quando preciso automatizar algo em nosso fluxo de trabalho ou criar um estudo 
 <br>
 
 ## 📈 Principais Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gudaoliveira&repo=Apps_Script_Projects\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/gudaoliveira/Apps_Script_Projects)
-
 <div align="center">
  
-### 🤝Obrigado pela visita!
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gudaoliveira&repo=NIKE_gerenciador_de_estoque\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/gudaoliveira/NIKE_gerenciador_de_estoque)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gudaoliveira&repo=analise-de-dados-campeonato-brasileiro-2019\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/gudaoliveira/analise-de-dados-campeonato-brasileiro-2019)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gudaoliveira&repo=NIKE_gerenciador_de_reposicao_de_calcados\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/gudaoliveira/NIKE_gerenciador_de_reposicao_de_calcados)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gudaoliveira&repo=deliFoods_modelagem_banco_de_dados\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/gudaoliveira/deliFoods_modelagem_banco_de_dados)
+ 
+Acesse [a página de repositórios](https://github.com/gudaoliveira?tab=repositories) para ver a lista completa
 
+</div>
+
+## 🤝Obrigado pela visita!
+<div align="center">
+ 
 <a href="https://www.linkedin.com/in/gustavodell/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:gustavo.dellanhol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
